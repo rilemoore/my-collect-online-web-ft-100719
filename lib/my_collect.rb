@@ -9,9 +9,3 @@ def my_collect(array)
   new_array
   # code here
 end
-
-collection = [1, 2, 3, 4]
-my_collect(collection) do |i|
-   i
-  
-end
