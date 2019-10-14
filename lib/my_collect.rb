@@ -10,7 +10,7 @@ def my_collect
 end
 
 collection = [1, 2, 3, 4]
-my_each(collection) do |i|
+my_collect(collection) do |i|
    i
   
 end
